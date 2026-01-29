@@ -8,9 +8,10 @@ clean UI, structured code.
 
 ## Projects Included
 
-| # | Project Name | Description |
-|---|-------------|-------------|
-| 01 | Login & Register Page | Authentication UI with client-side validation and security notes |
+| # | Project Name | Description | Demo |
+|---|-------------|-------------|------|
+| 01 | [Login & Register Page](https://github.com/MMammdli/Frontend-projects/tree/main/login-register) | Auth UI | [Live](https://mmammdli.github.io/Frontend-projects/login-register/index.html) |
+
 
 ---
 
