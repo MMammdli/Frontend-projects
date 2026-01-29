@@ -1,21 +1,16 @@
-# Login & Register Page (Frontend Only)
+# Frontend Mini Projects
 
-A simple and responsive **Login and Register UI** built using pure HTML and CSS.
-This project is part of a frontend mini-project collection maintained by a
-**cybersecurity student**, with emphasis on clean design and security awareness.
+A collection of small frontend projects built to strengthen core web development skills.
+This repository is maintained by a **cybersecurity student**, with an emphasis on
+clean UI, structured code.
 
 ---
 
-## Project Overview
+## Projects Included
 
-This project includes:
-- A **Login page**
-- A **Register page**
-- Modern UI with icons
-- Responsive layout for smaller screens
-
-This is a **frontend-only project**.  
-No authentication logic or backend functionality is implemented.
+| # | Project Name | Description |
+|---|-------------|-------------|
+| 01 | Login & Register Page | Authentication UI with client-side validation and security notes |
 
 ---
 
@@ -23,23 +18,33 @@ No authentication logic or backend functionality is implemented.
 
 - HTML5
 - CSS3
-- Font Awesome (icons)
+- JavaScript (Vanilla)
+- Git & GitHub
+
+No frameworks are used to ensure a strong understanding of fundamentals.
 
 ---
 
-## Features
+##  Goals of This Repository
 
-### Login Page
-- Username input
-- Password input
-- Styled login button
-- Link to register page
-- Responsive design (image hidden on small screens)
+- Practice frontend development from scratch
+- Build strong JavaScript logic and DOM manipulation skills
+- Apply **secure coding habits** even in frontend-only projects
+- Maintain clean project structure and meaningful commits
+- Create a solid GitHub portfolio
 
-### Register Page
-- Username input
-- Email input
-- Password & confirm password inputs
-- Styled register button
-- Link back to login page
-- Responsive layout
+---
+
+##  Security Perspective
+
+These projects are **frontend-only** and do not implement real authentication or authorization.
+
+Security principles highlighted across projects:
+- Avoiding unsafe functions (e.g. `eval`)
+- Input validation and sanitization
+- Awareness of XSS, CSRF, and authentication risks
+- Clear separation between frontend and backend responsibilities
+
+>  Client-side validation alone is never sufficient for real-world applications.
+
+---
