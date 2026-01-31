@@ -5,6 +5,7 @@ This project is part of a frontend mini-project collection maintained by a
 **cybersecurity student**.
 
 ---
+## [Live Demo](https://mmammdli.github.io/Frontend-projects/login-register/index.html)
 
 ##  Project Overview
 
@@ -44,5 +45,5 @@ No authentication logic or backend functionality is implemented.
 - Link back to login page
 - Responsive layout
 
-[Live](https://mmammdli.github.io/Frontend-projects/login-register/index.html)
+
 
