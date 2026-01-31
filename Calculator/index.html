@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div class="calculator">
+        <input class="display" readonly>
+
+        <div class="button">
+            <button onclick="ClearAll()">C</button>
+            <button class="operator" onclick="AppendToDisplay('/')">/</button>
+            <button class="operator" onclick="AppendToDisplay('*')">*</button>
+            <button onclick="BackSpace()"><i class="fa-solid fa-delete-left"></i></button>
+
+            <button onclick="AppendToDisplay('7')">7</button>
+            <button onclick="AppendToDisplay('8')">8</button>
+            <button onclick="AppendToDisplay('9')">9</button>
+            <button class="operator" onclick="AppendToDisplay('-')">-</button>
+
+            <button onclick="AppendToDisplay('4')">4</button>
+            <button onclick="AppendToDisplay('5')">5</button>
+            <button onclick="AppendToDisplay('6')">6</button>
+            <button class="operator" onclick="AppendToDisplay('+')">+</button>
+
+            <button onclick="AppendToDisplay('1')">1</button>
+            <button onclick="AppendToDisplay('2')">2</button>
+            <button onclick="AppendToDisplay('3')">3</button>
+            <button class="equal" onclick="Calculate()">=</button>
+            
+            <button class="zero" onclick="AppendToDisplay('0')">0</button>
+
+        </div>
+    </div>
+    <script src="calculator.js"></script>
+</body>
+</html>
