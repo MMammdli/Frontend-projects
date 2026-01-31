@@ -18,7 +18,7 @@ This project was created to practice core frontend development concepts such as 
 - **JavaScript (ES6)** – Logic and interactivity
 
 
-## 🧠 What I Learned
+##  What I Learned
 - DOM selection and manipulation
 - Handling button click events
 - Working with JavaScript functions and conditions
