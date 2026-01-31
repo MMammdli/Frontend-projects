@@ -11,7 +11,7 @@ clean UI, structured code.
 | # | Project Name | Description | Demo |
 |---|-------------|-------------|------|
 | 01 | [Login & Register Page](https://github.com/MMammdli/Frontend-projects/tree/main/login-register) | Auth UI | [Live](https://mmammdli.github.io/Frontend-projects/login-register/index.html) |
-
+| 02 | [Calculator App](https://github.com/MMammdli/Frontend-projects/tree/main/Calculator) | Basic calculator with DOM manipulation | [Live](https://mmammdli.github.io/Frontend-projects/Calculator) | 
 
 ---
 
