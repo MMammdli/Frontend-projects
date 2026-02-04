@@ -53,26 +53,3 @@ Security awareness demonstrated across projects:
 
 > ⚠️ Client-side validation alone is **never enough** in real applications.
 
----
-
-## 📁 Repository Structure
-
-```txt
-Frontend-projects/
-│
-├── login-register/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── calculator/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── password-strength-checker/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── README.md
