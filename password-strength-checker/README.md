@@ -16,9 +16,9 @@ This project helps users check the strength of their passwords as they type. It 
 
 ## Features
 
-✔ Real-time strength feedback while typing  
-✔ Color indicators to show strength level  
-✔ Simple and responsive UI
+- Real-time strength feedback while typing  
+- Color indicators to show strength level  
+- Simple and responsive UI
 
 ##  How It Works
 
