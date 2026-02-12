@@ -1,7 +1,7 @@
 # Password Strength Checker
 
 A simple frontend tool to evaluate how strong a password is in real time using HTML, CSS, and JavaScript.
-
+### [Live Demo](https://mmammdli.github.io/Frontend-projects/password-strength-checker/)
 ##  About the Project
 
 This project helps users check the strength of their passwords as they type. It visually shows whether a password is weak, medium, or strong based on criteria like length and character diversity. This is a great small project for practising DOM manipulation and basic frontend skills.
